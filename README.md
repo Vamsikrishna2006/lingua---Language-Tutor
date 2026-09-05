@@ -125,3 +125,5 @@ The automated tests protect the structured feedback contract, including score bo
 4. Play the polished sentence.
 5. Open Progress to show the saved result.
 6. Briefly show the helpful error produced when a recording is too short or the microphone is denied.
+
+## I completed this project entirely using AI due to campus placement exams and mid exams. Thank you for your understanding.
